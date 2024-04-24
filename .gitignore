@@ -1,0 +1,6 @@
+# Ignore jpg and png files in all directories
+*.jpg
+*.png
+
+# Ignore NN Snapshot
+*.pth
