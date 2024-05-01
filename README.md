@@ -1,12 +1,12 @@
 # telecom-ima205-challenge
 
-Practical work for IMA205: Apprentissage pour l'image et la reconnaissance d'objets at Télécom-Paris, 2023.
+Practical work for IMA205: Apprentissage pour l'image et la reconnaissance d'objets at Télécom-Paris, 2024. Kaggle competition consisting in classifying dermoscopic images of skin lesions into 8 classes.
 
-https://drive.google.com/file/d/1r51jDiFqZf3Cf0yNDj0S5lfxQoG_PIMU/view?usp=sharing
+[MFSNet repo](https://github.com/Rohit-Kundu/MFSNet?tab=readme-ov-file)
 
-Bib:
+[Trained MFSNet for this challenge](https://drive.google.com/file/d/1r51jDiFqZf3Cf0yNDj0S5lfxQoG_PIMU/view?usp=sharing)
 
-https://github.com/Res2Net/Res2Net-PretrainedModels
+[Res2Net Pretrained Models](https://github.com/Res2Net/Res2Net-PretrainedModels).
 
-https://github.com/Rohit-Kundu/MFSNet?tab=readme-ov-file
+
 

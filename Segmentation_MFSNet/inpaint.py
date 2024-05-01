@@ -37,4 +37,4 @@ for im in os.listdir(root):
     # inpaint the original image depending on the mask
     out = cv2.inpaint(src,thresh2,1,cv2.INPAINT_TELEA)
     #cv2.imshow(dst)
-    cv2.imwrite(dst+im+".png", out, [int(cv2.IMWRITE_JPEG_QUALITY), 90])
+    cv2.imwrite(dst+im, out, [int(cv2.IMWRITE_JPEG_QUALITY), 90])
